@@ -27,3 +27,7 @@ const burger = (props) => {
 };
 
 export default burger;
+
+/*
+[1,2,3,4] .map(el => return el) [1,2,3,4]
+*/
