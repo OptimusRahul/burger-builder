@@ -7,6 +7,7 @@
     align-items: center;
     padding: 10px 0;
     box-sizing: border-box;
+    cursor: pointer;
 }
 
 .DrawerToggle div {
@@ -15,7 +16,7 @@
     background-color: white;
 }
 
-@media (min-width: 500px){
+@media (min-width: 500px) {
     .DrawerToggle {
         display: none;
     }
